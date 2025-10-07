@@ -1,8 +1,0 @@
-title: My Blog
-description: "A simple Jekyll blog powered by GitHub Pages"
-baseurl: "" # leave empty for main site
-url: "https://mysistersdogmolly.github.io/Jekyll" # change USERNAME to your GitHub username/
-
-theme: architect
-plugins:
-  - jekyll-feed
